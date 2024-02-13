@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101019558309",
+    "project_id": "words-b780c",
+    "storage_bucket": "words-b780c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101019558309:android:c44084abbb93f0bb39884c",
+        "android_client_info": {
+          "package_name": "com.example.words1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTmx9hUfJhgeaQ7mVcoFqc8QWf0QDzswU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
